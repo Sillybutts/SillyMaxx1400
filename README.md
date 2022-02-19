@@ -1,5 +1,12 @@
 # SillyMaxx 1400
 
+<img src="GHimages/IMG_6538.jpg" width="500">
+<img src="GHimages/IMG_6343.jpg" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%207.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%201.png" width="500">
+
+
 ## Description
 
 
