@@ -28,7 +28,6 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 ## Images
 
-<img src="GHimages/Titan%20Supermaxx%20Homemade%20v163.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%201.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%203.png" width="500">
@@ -50,3 +49,4 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20MXL%20ammo%20holder.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20picatinny.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20sight.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v163.png" width="500">
