@@ -28,4 +28,25 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v163.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%201.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%203.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%204.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%205.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%206.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%207.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20barrels%201.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20barrels%202.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20barrels%203.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%201.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%202.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%203.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20butt%20normal.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20butt%20plugged.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20no%20top%20stuff.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20removed%20back%20pipe.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20sight.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20MXL%20ammo%20holder.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20picatinny.png" width="500">
+<img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20with%20sight.png" width="500">
