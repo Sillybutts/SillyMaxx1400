@@ -28,6 +28,7 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 ## Images
 
+<img src="GHimages/IMG_6343.jpg" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%201.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%203.png" width="500">
