@@ -6,6 +6,7 @@
 ## Description
 
 Basic assembly guide: https://youtu.be/TCJiuXc-gHQ
+
 Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
 
 
