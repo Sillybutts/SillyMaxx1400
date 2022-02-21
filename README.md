@@ -5,6 +5,9 @@
 
 ## Description
 
+Basic assembly guide: https://youtu.be/TCJiuXc-gHQ
+Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
+
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
