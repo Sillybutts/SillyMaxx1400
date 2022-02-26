@@ -45,7 +45,9 @@ TlDr,
 To be used in the SillyMaxx 1400 design, a stock Titan tank and Titan pump need to be slightly minimized. These minimizations do not increase the power of the blaster, they just make the tank and pump slightly slimmer. 
 
 <img src="GHimages/Titan%20Tank%20Minimization.png" width="500">
+<img src="GHimages/titan%20tank%20back.jpg" width="500">
 <img src="GHimages/Titan%20Pump%20Minimization.png" width="500">
+<img src="GHimages/Titan%20pump%20back.PNG" width="500">
 
 ## Print Info
 
