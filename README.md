@@ -10,6 +10,13 @@ Basic assembly guide: https://youtu.be/TCJiuXc-gHQ
 Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
 
 
+## Tank and Pump Minimization
+
+<img src="GHimages/Titan%20Tank%20Minimization.png" width="500">
+<img src="GHimages/Titan%20Pump%20Minimization.png" width="500">
+
+## Print Info
+
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
 
