@@ -5,9 +5,11 @@
 
 ## Description
 
-Basic assembly guide: https://youtu.be/TCJiuXc-gHQ
+Basic assembly guide: https://www.youtube.com/watch?v=TCJiuXc-gHQ
 
 Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
+
+1 minute blaster overview: https://www.youtube.com/watch?v=Qa94QIY8Uhg
 
 The hall of finished blasters:
 - Mine (Sillybutts) https://www.youtube.com/watch?v=uj7RobxyauM
