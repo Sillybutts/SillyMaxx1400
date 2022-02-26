@@ -9,7 +9,34 @@ Basic assembly guide: https://youtu.be/TCJiuXc-gHQ
 
 Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
 
-MegaXL Performance: 115 avg out of Trivictus barrel, 12 pumps (stock Titan OPRV goes off at 12).
+The hall of finished blasters:
+- Mine (Sillybutts) https://www.youtube.com/watch?v=uj7RobxyauM
+- u/nick_la_plante https://www.reddit.com/r/Nerf/comments/t17dpy/finally_got_around_to_assembling_my_own/
+
+The SillyMaxx 1400 is a homemade shell for the Nerf Titan air blaster. This design takes the air tank and air pump of the Titan, and puts it into a shell modelled after the Larami SuperMaxx 500 and Larami SuperMaxx 2000 (later called the Supermaxx 5000, produced by Nerf). 
+
+MegaXL Performance using the included barrel: 115 avg out of Trivictus barrel, 12 pumps (stock Titan OPRV goes off at 12).
+
+You can still use original Titan missiles/rockets with the included barrels. 
+
+This blaster is not as cleanly assembled as my other designs. It was mainly made as a personal project. It is still not *hard* to build, but its certainly more involved than building a printed blaster straight from a hardware kit. There is glue.
+
+## Hardware and Assembly
+
+Hardware:
+- 1x Titan Tank and pump
+- 26x 4-40 screws (you don't need all of them for the blaster to be sturdy in theory, but the holes are there.)
+- 2x "longer" screws. These are for securing the Frontblock to the rest of the blaster. I used #4 x 1/2 inch pan head phillips screws. You could probably use the longest screws from the original Titan's shell. Basically, it needs to be a nice long, coarse thread screw that fits in the two holes in the front of the Frontblock. 
+- Glue. I used Super Glue / Cyanoacrylate glue.
+
+Here is my video, explaining how to assemble the blaster: https://youtu.be/TCJiuXc-gHQ
+
+TlDr, 
+- screw together the things with screw holes, glue together the things without screw holes. 
+- Attaching the Faux tank needs no screws or glue, it just dovetails on. 
+- Don't glue the Faux tank's back "pipe" into the body of the blaster, because then you can't remove the Faux tank to do any tank maintenance if need be. 
+- The tank and pump are NOT glued or screwed directly into, they are just friction fit and sandwhiched into the blaster. 
+- The trigger should only really be used with the Faux tank in place, or else it will bend slightly up, slightly bending the tank's release pin, causing leaks. 
 
 ## Tank and Pump Minimization
 
