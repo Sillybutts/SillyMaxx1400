@@ -25,7 +25,7 @@ This blaster is not as cleanly assembled as my other designs. It was mainly made
 
 Hardware:
 - 1x Titan Tank and pump
-- 26x 4-40 screws (you don't need all of them for the blaster to be sturdy in theory, but the holes are there.)
+- 26x Titan shell screws, or 4-40 screws. You don't need all of them for the blaster to be sturdy, but the holes are there anyway.
 - 2x "longer" screws. These are for securing the Frontblock to the rest of the blaster. I used #4 x 1/2 inch pan head phillips screws. You could probably use the longest screws from the original Titan's shell. Basically, it needs to be a nice long, coarse thread screw that fits in the two holes in the front of the Frontblock. 
 - Glue. I used Super Glue / Cyanoacrylate glue.
 
