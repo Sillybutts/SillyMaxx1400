@@ -7,7 +7,7 @@
 
 Basic assembly guide: https://www.youtube.com/watch?v=TCJiuXc-gHQ
 
-Firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
+1 minute firing demo: https://www.youtube.com/watch?v=Evi2LHyZtMM
 
 1 minute blaster overview: https://www.youtube.com/watch?v=Qa94QIY8Uhg
 
