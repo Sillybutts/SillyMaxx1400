@@ -23,13 +23,15 @@ You can still use original Titan missiles/rockets with the included barrels.
 
 This blaster is not as cleanly assembled as my other designs. It was mainly made as a personal project. It is still not *hard* to build, but its certainly more involved than building a printed blaster straight from a hardware kit. There is glue.
 
-## Hardware and Assembly
+## Hardware, Stickers, and Assembly
 
 Hardware:
 - 1x Titan Tank and pump
 - 26x Titan shell screws, or 4-40 screws. You don't need all of them for the blaster to be sturdy, but the holes are there anyway.
 - 2x "longer" screws. These are for securing the Frontblock to the rest of the blaster. I used #4 x 1/2 inch pan head phillips screws. You could probably use the longest screws from the original Titan's shell. Basically, it needs to be a nice long, coarse thread screw that fits in the two holes in the front of the Frontblock. 
 - Glue. I used Super Glue / Cyanoacrylate glue.
+
+You can also buy a SillyMaxx 1400 logo sticker to put on the side of the blaster from my RedBubble. I recommend the Medium (5.5 x 1 inch) transparent sticker https://www.redbubble.com/i/sticker/SillyMaxx-1400-Logo-by-Sillybutts/103172289.OP1U7
 
 Here is my video, explaining how to assemble the blaster: https://youtu.be/TCJiuXc-gHQ
 
