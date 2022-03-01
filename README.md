@@ -14,6 +14,7 @@ Basic assembly guide: https://www.youtube.com/watch?v=TCJiuXc-gHQ
 The hall of finished blasters:
 - Mine (Sillybutts) https://www.youtube.com/watch?v=uj7RobxyauM
 - u/nick_la_plante https://www.reddit.com/r/Nerf/comments/t17dpy/finally_got_around_to_assembling_my_own/
+- u/djnobility https://www.reddit.com/r/Nerf/comments/t4f6s7/the_sillymaxx_1400_has_me_feeling_good/
 
 The SillyMaxx 1400 is a homemade shell for the Nerf Titan air blaster. This design takes the air tank and air pump of the Titan, and puts it into a shell modelled after the Larami SuperMaxx 500 and Larami SuperMaxx 2000 (later called the Supermaxx 5000, produced by Nerf). 
 
