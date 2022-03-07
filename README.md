@@ -57,7 +57,11 @@ To be used in the SillyMaxx 1400 design, a stock Titan tank and Titan pump need 
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
+The minimum build volume for your printer is 210mm x 210mm x 210mm if you use the split version of BodyBlockC. The minimum for the unsplit BodyBlockC is 210mm x 210mm x 215mm.
+
 Some parts need brims, a lot of parts need supports. This blaster is NOT as cleanly printed as my other designs.
+
+BodyBlockC MUST BE PRINTED VERTICALLY, WITH THE RING AGAINST THE PRINT BED. If this isn't done, then the ring will be fragile and break off.
 
 I recommend rafts for the BodyBlockA and BodyBlockB parts, to keep them straight, and to make the supports easier to remove. I use Cura tree supports. 
 
