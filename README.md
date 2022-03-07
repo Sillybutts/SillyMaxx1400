@@ -98,6 +98,9 @@ The large parts (BodyBlockA,B,C, Faux Tank, Frontblock, etc) and the pump grip c
 <img src="GHimages/IMG_6538.jpg" width="500">
 <img src="GHimages/IMG_6525.jpg" width="500">
 <img src="GHimages/IMG_6343.jpg" width="500">
+<img src="GHimages/z3rFS9j.jpeg" width="500">
+<img src="GHimages/2gtytxh950k81.jpg" width="500">
+<img src="GHimages/7rxket17jtk81.jpg" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%201.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%203.png" width="500">
