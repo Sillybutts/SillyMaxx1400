@@ -43,6 +43,7 @@ TlDr,
 - Don't glue the Faux tank's back "pipe" into the body of the blaster, because then you can't remove the Faux tank to do any tank maintenance if need be. 
 - The tank and pump are NOT glued or screwed directly into, they are just friction fit and sandwhiched into the blaster. 
 - The trigger should only really be used with the Faux tank in place, or else it will bend slightly up, slightly bending the tank's release pin, causing leaks. 
+- The front block is screwed in with two screws. THESE SHOULD BE THE LONGEST SCREWS FROM THE TITAN SHELL, OR SOME OTHER LONG SCREW. I used #4 x 1/2in sheet metal screws from my local hardware store.
 
 ## Tank and Pump Minimization
 
