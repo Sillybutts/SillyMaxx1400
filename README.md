@@ -93,6 +93,7 @@ The large parts (BodyBlockA,B,C, Faux Tank, Frontblock, etc) and the pump grip c
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
 
+And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
