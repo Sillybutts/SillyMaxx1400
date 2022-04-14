@@ -19,9 +19,11 @@ The hall of finished blasters:
 
 The SillyMaxx 1400 is a homemade shell for the Nerf Titan air blaster. This design takes the air tank and air pump of the Titan, and puts it into a shell modelled after the Larami SuperMaxx 500 and Larami SuperMaxx 2000 (later called the Supermaxx 5000, produced by Nerf). 
 
-MegaXL Performance using the included barrel: 115 avg out of Trivictus barrel, 12 pumps (stock Titan OPRV goes off at 12).
+The main idea for the blaster was that Titans are a semi-common, high power air blaster, that most people don't use due to their size and ammo unavailability. This design makes the Titan smaller, and lets you use many different types of common ammo, like full length darts, short darts, Mega XL, Mega, and Rival. 
 
-You can still use original Titan missiles/rockets with the included barrels. 
+MegaXL Performance using the Mega XL barrel: 115 avg out of Trivictus barrel, 12 pumps (stock Titan OPRV goes off at 12).
+
+You can still use original Titan missiles/rockets with the included barrels, they slide over the outside of the barrel.
 
 This blaster is not as cleanly assembled as my other designs. It was mainly made as a personal project. It is still not *hard* to build, but its certainly more involved than building a printed blaster straight from a hardware kit. There is glue.
 
