@@ -58,7 +58,7 @@ To be used in the SillyMaxx 1400 design, a stock Titan tank and Titan pump need 
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
-The minimum build volume for your printer is 210mm x 210mm x 210mm if you use the split version of BodyBlockC. The minimum for the unsplit BodyBlockC is 210mm x 210mm x 215mm.
+The minimum build volume for your printer is 210mm x 210mm x 210mm if you use the split version of BodyBlockC. The minimum for the unsplit BodyBlockC is 210mm x 210mm x 215mm. The blaster was designed to fit on Ender 3 printers, or bigger.
 
 Some parts need brims, a lot of parts need supports. This blaster is NOT as cleanly printed as my other designs.
 
@@ -68,7 +68,7 @@ I recommend rafts for the BodyBlockA and BodyBlockB parts, to keep them straight
 
 The smaller parts (Trigger bits, tank pipe parts, the front cover rings, modules for the top of the faux tank, grip panels etc) should be printed at high infill. I did them at 20% gyroid infill, 4 walls.
 
-The MegaXL barrels included in the fileset should be printed at 5 walls, at least 20% infill. 
+The barrels included in the fileset should be printed at 5 walls, at least 20% infill. 
 
 The large parts (BodyBlockA,B,C, Faux Tank, Frontblock, etc) and the pump grip can be printed at lower infill and wall count. I did them at 5-10% gyroid infill, 3 walls. 
 
