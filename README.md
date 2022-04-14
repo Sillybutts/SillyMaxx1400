@@ -2,6 +2,8 @@
 
 <img src="GHimages/IMG_6538.jpg" width="300"><img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="300"><img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%201.png" width="300"><img src="GHimages/z3rFS9j.jpeg" width="300"><img src="GHimages/2gtytxh950k81.jpg" width="300"><img src="GHimages/7rxket17jtk81.jpg" width="300">
 
+### Changelog:
+4/14/22: Added a split version of BodyBlockC. There is now BodyBlockC, BodyBlockCFront, and BodyBlockCBack.
 
 ## Description
 
