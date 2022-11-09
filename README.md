@@ -29,9 +29,25 @@ MegaXL Performance using the Mega XL barrel: 115 avg out of Trivictus barrel, 12
 
 You can still use original Titan missiles/rockets with the included barrels, they slide over the outside of the barrel.
 
-This blaster is not as cleanly assembled as my other designs. It was mainly made as a personal project. It is still not *hard* to build, but its certainly more involved than building a printed blaster straight from a hardware kit. There is glue.
+## Performance
+
+Performance numbers contributed by Shaznazabbadaz!
+
+Maximum pumps before the stock Titan over pressure release valve kicks off. These numbers can be significantly increased with a plugged pump.
+
+MegaXL- 105FPS. 
+5 Full Lengths- 115FPS 
+5 half darts- 120FPS 
+10 half darts- 95-100FPS
+Triple Rival- 115FPS 
+Mega- 120FPS
+
+
+
 
 ## Hardware, Stickers, and Assembly
+
+This blaster is not as cleanly assembled as my other designs. It was mainly made as a personal project. It is still not *hard* to build, but its certainly more involved than building a printed blaster straight from a hardware kit. There is glue.
 
 Hardware:
 - 1x Titan Tank and pump
