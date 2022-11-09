@@ -35,12 +35,12 @@ Performance numbers contributed by Shaznazabbadaz!
 
 Maximum pumps before the stock Titan over pressure release valve kicks off. These numbers can be significantly increased with a plugged pump.
 
-MegaXL- 105FPS. 
-5 Full Lengths- 115FPS 
-5 half darts- 120FPS 
-10 half darts- 95-100FPS
-Triple Rival- 115FPS 
-Mega- 120FPS
+- MegaXL- 105FPS. 
+- 5 Full Lengths- 115FPS 
+- 5 half darts- 120FPS 
+- 10 half darts- 95-100FPS
+- Triple Rival- 115FPS 
+- Mega- 120FPS
 
 
 
