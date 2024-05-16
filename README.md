@@ -2,6 +2,11 @@
 
 <img src="GHimages/IMG_6538.jpg" width="300"><img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%202.png" width="300"><img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20internals%201.png" width="300"><img src="GHimages/z3rFS9j.jpeg" width="300"><img src="GHimages/2gtytxh950k81.jpg" width="300"><img src="GHimages/7rxket17jtk81.jpg" width="300">
 
+<a href="https://www.printables.com/model/876191-sillymaxx-1400-nerf-titan-reshell"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/876191-sillymaxx-1400-nerf-titan-reshell
+
+
 ### Changelog:
 4/14/22: Added a split version of BodyBlockC. There is now BodyBlockC, BodyBlockCFront, and BodyBlockCBack.
 
